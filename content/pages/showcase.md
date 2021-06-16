@@ -58,6 +58,11 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 seo:
   title: Showcase
   description: This is the showcase page
